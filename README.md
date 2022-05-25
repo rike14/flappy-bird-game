@@ -13,7 +13,7 @@
 
 ## 💻 Sobre o projeto
 
-💻 Flappy Bird - Que tal se divertir um pouco e experimentar esse game simples mas que ajuda a descontrair bastante. :pushpin: :wink:
+💻 Flappy Bird - Que tal se divertir um pouco e experimentar esse game simples mas que ajuda a relaxar bastante. A jogabilidade é simples apertando qualquer tecla do seu teclado ele sobe, e quando solta ele começa a cair lentamente, achou fácil? Que tal descontrair um pouco? :pushpin: :wink:
 
 ---
 
@@ -32,6 +32,11 @@
 - [x] Perdeu, tente novamente! :frowning_face: :
     <h1 align="center">
       <img alt="products of api" title="#products" src="./src/imgs/game-over.gif" width="90%"/>
+    </h1>
+
+- [x] Mostrando jogo completo:
+    <h1 align="center">
+      <img alt="products of api" title="#products" src="./src/imgs/playing.gif" width="90%"/>
     </h1>
 
 ---
@@ -68,7 +73,7 @@ Feito com ❤️ por Henrique M. Kronhardt 👋🏽 [Entre em contato!](https://
 
 ## 💻 About the project
 
-💻 Flappy Bird - How about having a little fun and trying this simple game but it helps to relax a lot. :pushpin: :wink:
+💻 Flappy Bird - How about having a little fun and trying this simple game that helps you relax a lot. The gameplay is simple, pressing any key on your keyboard it rises, and when you release, it starts to fall slowly, did you find it easy? How about relaxing a little? :pushpin: :wink:
 
 ---
 
@@ -88,6 +93,11 @@ Feito com ❤️ por Henrique M. Kronhardt 👋🏽 [Entre em contato!](https://
 - [x] Game Over, Try again! :frowning_face: :
     <h1 align="center">
         <img alt="form of friend" title="#form2" src="./src/imgs/game-over.gif" width="90%"/>
+    </h1>
+
+- [x] Showing the complete game:
+    <h1 align="center">
+      <img alt="products of api" title="#products" src="./src/imgs/playing.gif" width="90%"/>
     </h1>
 
 ---
