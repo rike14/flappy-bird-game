@@ -57,6 +57,11 @@ h1 {
     margin-left: 160px;
     animation-name: button;
     animation-duration: 4s;
+    cursor: pointer;
+}
+[wm-start] button:hover {
+    background-color: #000;
+    color: #fff
 }
 @keyframes game-over {
     from {
@@ -158,4 +163,13 @@ h1 {
     font-size: 70px;
     color: #fff;
     z-index: 100;
+}
+@media(max-width: 1000px){
+    [wm-start] {
+            width: 600px;
+            height: 400px;
+            display: block;
+            margin-top: 100px;
+            margin-left: 650px;
+        }
 }
